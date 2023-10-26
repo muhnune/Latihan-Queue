@@ -1,3 +1,5 @@
+//Ini code latihan dari dosen
+
 class Node {
     int data;
     String Nama;
